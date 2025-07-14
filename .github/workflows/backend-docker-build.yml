@@ -1,0 +1,21 @@
+name: Build Backend Docker Image
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Kodu
+        uses: actions/checkout@v3
+
+      - name: Docker Build Kurulumu
+        uses: docker/setup-buildx-action@v3
+
+      - name: Docker Backend Image Build Et
+        run: |
+          docker build -t renartcase-backend ./RenartCaseBackend

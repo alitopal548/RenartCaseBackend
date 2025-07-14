@@ -35,3 +35,4 @@ C:\Users\alito\Desktop\RenartCaseStudy\renartcasebackend\obj\Debug\net9.0\refint
 C:\Users\alito\Desktop\RenartCaseStudy\renartcasebackend\obj\Debug\net9.0\RenartCaseBackend.pdb
 C:\Users\alito\Desktop\RenartCaseStudy\renartcasebackend\obj\Debug\net9.0\RenartCaseBackend.genruntimeconfig.cache
 C:\Users\alito\Desktop\RenartCaseStudy\renartcasebackend\obj\Debug\net9.0\ref\RenartCaseBackend.dll
+C:\Users\alito\Desktop\RenartCaseStudy\RenartCaseBackend\obj\Debug\net9.0\RenartCaseBackend.sourcelink.json

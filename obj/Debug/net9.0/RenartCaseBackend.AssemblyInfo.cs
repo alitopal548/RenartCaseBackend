@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RenartCaseBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0a1727cb5d097e365643e0e7aa5d6508005566b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RenartCaseBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RenartCaseBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
