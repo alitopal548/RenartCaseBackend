@@ -17,5 +17,4 @@ jobs:
         uses: docker/setup-buildx-action@v3
 
       - name: Docker Backend Image Build Et
-        run: |
-          docker build -t renartcase-backend ./RenartCaseBackend
+        run: docker build -t renartcase-backend .
